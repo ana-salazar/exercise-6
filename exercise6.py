@@ -1,3 +1,6 @@
-greeting = print ("hello")
-greeting
+greeting = ("hello")
+print greeting
+
+goodbye = ("goodnight")
+print goodbye
 
