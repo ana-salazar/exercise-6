@@ -1,0 +1,3 @@
+greeting = print ("hello")
+greeting
+
